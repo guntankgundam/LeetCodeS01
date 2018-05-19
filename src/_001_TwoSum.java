@@ -20,6 +20,7 @@ public class _001_TwoSum {
             map.put(nums[i], i);
         }
         return res;
+
     }
 
     public static void main(String[] args) {
