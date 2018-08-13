@@ -1,8 +1,10 @@
+package problem_009;
+
 /**
  * @author kedupmail@gmail.com
  * @date 2018/5/24 15:33
  */
-public class _009_PalindromeNumber {
+public class PalindromeNumber {
 
     public static boolean isPalindromeNumber(int num) {
         if (num < 0 || num == 0) {
